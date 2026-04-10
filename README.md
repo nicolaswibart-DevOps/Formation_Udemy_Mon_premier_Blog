@@ -23,6 +23,7 @@ SQLite (base de données par défaut)
 
 Cloner le projet :
 git clone https://github.com/nicolaswibart-DevOps/Formation_Udemy_Mon_premier_Blog
+
 cd ton-repo
 
 Installer les dépendances :
