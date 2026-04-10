@@ -33,7 +33,11 @@ Lancer le serveur :
 python3 manage.py runserver
 
 📌 Fonctionnalités
+
 Page d’accueil avec affichage dynamique de la date et de l’heure
+
 Interface web personnalisée avec background
+
 Projet structuré avec Django
+
 Accès à l’administration Django
